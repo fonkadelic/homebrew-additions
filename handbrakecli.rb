@@ -1,3 +1,5 @@
+# Credits: https://github.com/sceaga/homebrew-tap/blob/master/handbrakecli.rb
+
 require 'formula'
 
 class Handbrakecli <Formula
