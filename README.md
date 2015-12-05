@@ -1,7 +1,7 @@
 homebrew-additions
 ==================
 
-> Additional [homebrew](https://github.com/mxcl/homebrew) formulae.
+> Additional [homebrew](https://github.com/homebrew/homebrew) formulae.
 
 ## Contents
 
@@ -9,9 +9,9 @@ homebrew-additions
 
 ## Installation
 
-Just `brew tap fonkadelic/homebrew-additions` and then `brew install <formula>`.
+Just `brew tap fonkadelic/additions` and then `brew install <formula>`.
 
-If the formula conflicts with one from mxcl/master or another tap, you can `brew install fonkadelic/homebrew-additions/<formula>`.
+If the formula conflicts with one from homebrew/master or another tap, you can `brew install fonkadelic/additions/<formula>`.
 
 You can also install via URL:
 
@@ -19,4 +19,4 @@ You can also install via URL:
 brew install https://raw.github.com/fonkadelic/homebrew-additions/master/<formula>.rb
 ```
 
-If you want to remove this tapped repository, you can do it with `brew untap fonkadelic/homebrew-additions`
+If you want to remove this tapped repository, you can do it with `brew untap fonkadelic/additions`
